@@ -59,11 +59,10 @@
   <a href="https://linkedin.com/in/carloslanajunior11" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFF7" />
   </a>
-  <a href="mailto:Juniorlana.s@gmail.comL" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFF7" />
+  <a href="mailto:juniorlana.s@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFF7" />
   </a>
 </p>
-
 ---
 
 <p align="center">
@@ -72,7 +71,6 @@
 
 <p align="center">
 </p>
-
 
 
 
