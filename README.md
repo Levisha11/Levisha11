@@ -1,6 +1,6 @@
 
 
-````markdown
+
 <!--
 ██╗     ███████╗██╗   ██╗██╗███████╗██╗  ██╗ █████╗ 
 ██║     ██╔════╝██║   ██║██║██╔════╝██║  ██║██╔══██╗
@@ -24,15 +24,15 @@
 
 ## 👤 Sobre mim
 
-```txt
+
 🔹 Nome: Levisha11
 🔹 Estilo: Cyberpunk Developer
 🔹 Localização: 🌍 Cyberspace
 🔹 Especialidade: Desenvolvimento Front-End com toque distópico
 🔹 Objetivo: Construir experiências digitais que pareçam magia (ou glitch)
-````
 
----
+
+
 
 ## 🧪 Stack de Tecnologias
 
