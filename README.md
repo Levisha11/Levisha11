@@ -20,17 +20,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Bem-vindx%20ao%20universo%20de%20Levisha11&fontAlign=50&fontColor=00FFF7&desc=Hackeando%20a%20Matrix%20desde%2020XX&descAlign=50&descSize=15" />
 </p>
 
----
+
 
 ## 👤 Sobre mim
 
-```txt
+
 🔹 Nome: Levisha11
 🔹 Estilo: Cyberpunk Developer
 🔹 Localização: 🌍 Cyberspace
 🔹 Especialidade: Desenvolvimento Front-End com toque distópico
 🔹 Objetivo: Construir experiências digitais que pareçam magia (ou glitch)
-````
+
 
 ---
 
