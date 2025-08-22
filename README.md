@@ -1,16 +1,27 @@
 ## Hi there 👋
 
+<!--
+░█░█░█▀▀░█░█░█▀▀░█▀█░█░█░█▀▀░█░░  
+░█▀▄░█▀▀░█░█░█░█░█░█░░█░░█▀▀░█░░  
+░█░█░▀▀▀░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀▀▀
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+<h1 align="center">
+  ⚡ Levisha11 ⚡
+</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Levisha11&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=3000&color=00FFF7&center=true&vCenter=true&width=500&lines=Bem-vindx+ao+meu+mundo+digital...;Codificando+no+limite+da+realidade;404+-+Limites+não+encontrados" alt="Typing SVG" />
+</p>
+
+---
+
+## 🧬 Sobre mim
+
+```txt
+🟣 Nome: Levisha11  
+🔮 Estilo: Cyberpunk Coder  
+💻 Stack: Front-end futurista com pitadas de caos organizado  
+🧠 Ativamente hackeando a matrix (e estudando tecnologias novas)
+
+
