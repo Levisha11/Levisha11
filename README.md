@@ -9,7 +9,7 @@
 
 
 🔹 Nome: Levisha11
-🔹 Especialidade: Desenvolvimento Front-End 
+🔹 Foco: Desenvolvimento Front-End 
 🔹 Objetivo: Construir experiências digitais que pareçam magia (ou glitch)
 
 
