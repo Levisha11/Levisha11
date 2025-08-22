@@ -35,17 +35,6 @@
 
 </div>
 
----
-
-## 🧩 Projetos em Destaque
-
-| Projeto        | Descrição                                                      | Status                |
-| -------------- | -------------------------------------------------------------- | --------------------- |
-| `🌃 NeonUI`    | Biblioteca de componentes visuais inspirados em neon/cyberpunk | 🔧 Em desenvolvimento |
-| `🌌 HackBlog`  | Blog pessoal sobre tech, dev e distopias digitais              | 🧪 Em teste           |
-| `🕶️ DarkDash` | Painel administrativo com visual futurista                     | ✅ Pronto              |
-
----
 
 ## ⚙️ GitHub Stats
 
