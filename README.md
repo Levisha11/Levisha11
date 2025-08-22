@@ -1,13 +1,7 @@
 ## Hi there 👋
 
 
-Perfeito, Levisha11! Aqui está uma **versão completa, estilizada e pronta para colar no seu repositório `README.md`**, com visual **cyberpunk**, elementos animados e espaços para você personalizar com seus dados reais.
 
-> ✅ **IMPORTANTE:** Substitua os campos como `SEU-LINKEDIN`, `SEU-PORTFOLIO`, e `SEU-EMAIL` com seus links reais.
-
----
-
-````markdown
 <!--
 ██╗     ███████╗██╗   ██╗██╗███████╗██╗  ██╗ █████╗ 
 ██║     ██╔════╝██║   ██║██║██╔════╝██║  ██║██╔══██╗
