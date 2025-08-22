@@ -80,15 +80,6 @@
 
 ---
 
-## 🧠 Código da Vez
-
-```bash
-while true; do
-  echo "Codificando em 0xLevisha11..."
-  sleep infinity
-done
-```
-
 ---
 
 ## 🛰️ Contato & Links
@@ -120,17 +111,7 @@ done
 </p>
 ```
 
----
 
-## ✅ Próximos passos:
-
-* 📁 Crie (ou edite) o repositório com nome igual ao seu username (`Levisha11`)
-* 🔖 Cole esse conteúdo no arquivo `README.md`
-* 🚀 Faça o commit e veja a mágica acontecer no seu perfil!
-
-Se quiser, posso gerar **as imagens de banner personalizadas**, ou ajudar com **componentes interativos** pro futuro.
-
-Quer que eu personalize ainda mais com seus projetos reais?
 
 
 
