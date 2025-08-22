@@ -16,9 +16,8 @@
 
 
 🔹 Nome: Levisha11
-🔹 Estilo: Cyberpunk Developer
 🔹 Localização: 🌍 Cyberspace
-🔹 Especialidade: Desenvolvimento Front-End com toque distópico
+🔹 Especialidade: Desenvolvimento Front-End 
 🔹 Objetivo: Construir experiências digitais que pareçam magia (ou glitch)
 
 
@@ -79,13 +78,10 @@
   <a href="https://github.com/Levisha11" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7" />
   </a>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/carloslanajunior11" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFF7" />
   </a>
-  <a href="https://SEU-PORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-1F1F1F?style=for-the-badge&logo=internet-computer&logoColor=00FFF7" />
-  </a>
-  <a href="mailto:SEU-EMAIL" target="_blank">
+  <a href="mailto:Juniorlana.s@gmail.comL" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFF7" />
   </a>
 </p>
@@ -97,8 +93,6 @@
 </p>
 
 <p align="center">
-  🛸 Obrigado por acessar meu universo.  
-  Nos vemos no próximo merge ⚔️
 </p>
 ```
 
